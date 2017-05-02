@@ -1,0 +1,251 @@
+[ 2017-05-02T12:35:01+08:00 ] 127.0.0.1 /shop/index.php/home/user/login
+ERR: 模板不存在:D:/phpStudy/WWW/web/0425/shop/Home/View/User/login.html
+
+[ 2017-05-02T12:37:00+08:00 ] 127.0.0.1 /shop/index.php/home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036991s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+ERR: 模板不存在:D:/phpStudy/WWW/web/0425/shop/Home/View/User/login.html
+
+[ 2017-05-02T12:41:30+08:00 ] 127.0.0.1 /shop/index.php/home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049659s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049714s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001018s ]
+
+[ 2017-05-02T12:41:52+08:00 ] 127.0.0.1 /shop/index.php/home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000021s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2017-05-02T12:47:09+08:00 ] 127.0.0.1 /shop/index.php/home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 11 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 17 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 66 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 71 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 75 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 133 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 141 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027680s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-05-02T12:47:09+08:00 ] 127.0.0.1 /shop/index.php/home/user/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+ERR: 非法操作:style.css
+
+[ 2017-05-02T12:47:09+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-05-02T12:47:09+08:00 ] 127.0.0.1 /shop/index.php/home/user/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-05-02T12:47:09+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-05-02T12:47:09+08:00 ] 127.0.0.1 /shop/index.php/home/user/bnt_ur_reg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-05-02T12:47:09+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-05-02T12:47:09+08:00 ] 127.0.0.1 /shop/index.php/home/user/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-05-02T12:47:09+08:00 ] 127.0.0.1 /shop/index.php/home/user/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-05-02T12:47:25+08:00 ] 127.0.0.1 /shop/index.php/home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 11 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 17 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 58 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 66 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 71 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 75 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 133 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 141 行.
+NOTIC: [8] Undefined variable: smarty D:\phpStudy\WWW\web\0425\shop\Runtime\Cache\Home\2a43d226aef3d18375d367781d725b3d.php 第 199 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027251s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000535s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-05-02T12:47:25+08:00 ] 127.0.0.1 /shop/index.php/home/user/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+ERR: 非法操作:style.css
+
+[ 2017-05-02T12:47:25+08:00 ] 127.0.0.1 /shop/index.php/home/user/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-05-02T12:47:25+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-05-02T12:47:25+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-05-02T12:47:25+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-05-02T12:47:25+08:00 ] 127.0.0.1 /shop/index.php/home/user/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-05-02T12:47:25+08:00 ] 127.0.0.1 /shop/index.php/home/user/bnt_ur_reg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-05-02T12:47:25+08:00 ] 127.0.0.1 /shop/index.php/home/user/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+
+[ 2017-05-02T12:47:32+08:00 ] 127.0.0.1 /shop/index.php/home/user/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-05-02T12:47:32+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-05-02T12:47:33+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-05-02T12:47:33+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-05-02T12:47:33+08:00 ] 127.0.0.1 /shop/index.php/home/user/bnt_ur_reg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-05-02T12:47:33+08:00 ] 127.0.0.1 /shop/index.php/home/user/di.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-05-02T12:53:07+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao7.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-05-02T12:53:07+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-05-02T12:53:07+08:00 ] 127.0.0.1 /shop/index.php/home/user/biao6.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-05-02T12:53:07+08:00 ] 127.0.0.1 /shop/index.php/home/user/logo.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-05-02T13:03:35+08:00 ] 127.0.0.1 /shop/index.php/user/style.css
+ERR: 非法操作:style.css
+

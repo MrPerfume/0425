@@ -4,7 +4,8 @@ use Think\Controller;
 class UserController extends Controller {
     function login(){
 
-        echo 'login';
+      //  echo '用户登陆login';
+        $this->display();
 
     }
 
