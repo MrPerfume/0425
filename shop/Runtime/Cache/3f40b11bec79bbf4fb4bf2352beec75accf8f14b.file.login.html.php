@@ -1,4 +1,25 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<?php /* Smarty version Smarty-3.1.6, created on 2017-05-02 13:14:25
+         compiled from "D:/phpStudy/WWW/web/0425/shop/Admin/View\Manager\login.html" */ ?>
+<?php /*%%SmartyHeaderCode:319505908149c71a582-19249949%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '3f40b11bec79bbf4fb4bf2352beec75accf8f14b' => 
+    array (
+      0 => 'D:/phpStudy/WWW/web/0425/shop/Admin/View\\Manager\\login.html',
+      1 => 1493702064,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '319505908149c71a582-19249949',
+  'function' => 
+  array (
+  ),
+  'version' => 'Smarty-3.1.6',
+  'unifunc' => 'content_5908149c75fae',
+  'has_nocache_code' => false,
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_5908149c75fae')) {function content_5908149c75fae($_smarty_tpl) {?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -6,7 +27,8 @@
 
     <title>用户登录</title>
 
-    <link href="{$smarty.const.ADMIN_CSS_URL}User_Login.css" type="text/css" rel="stylesheet" />
+    <link href="<?php echo @ADMIN_CSS_URL;?>
+User_Login.css" type="text/css" rel="stylesheet" />
 
 </head><body id="userlogin_body">
 <div></div>
@@ -37,14 +59,16 @@
                             <li class="user_main_text">验证码： </li>
                             <li class="user_main_input">
                                 <input class="TxtValidateCodeCssClass" id="captcha" name="captcha" type="text">
-                                <img src="{$smarty.const.ADMIN_IMG_URL}admin.png"  alt="" />
+                                <img src="<?php echo @ADMIN_IMG_URL;?>
+admin.png"  alt="" />
                             </li>
                         </ul>
                     </div>
                 </li>
                 <li class="user_main_r">
 
-                    <input style="border: medium none; background: url('{$smarty.const.ADMIN_IMG_URL}user_botton.gif') repeat-x scroll left top transparent; height: 122px; width: 111px; display: block; cursor: pointer;" value="" type="submit">
+                    <input style="border: medium none; background: url('<?php echo @ADMIN_IMG_URL;?>
+user_botton.gif') repeat-x scroll left top transparent; height: 122px; width: 111px; display: block; cursor: pointer;" value="" type="submit">
                 </li>
             </ul>
         </form>
@@ -55,4 +79,4 @@
             <li class="user_bottom_r"></li></ul></dd></dl></div><span id="ValrUserName" style="display: none; color: red;"></span><span id="ValrPassword" style="display: none; color: red;"></span><span id="ValrValidateCode" style="display: none; color: red;"></span>
 <div id="ValidationSummary1" style="display: none; color: red;"></div>
 </body>
-</html>
+</html><?php }} ?>

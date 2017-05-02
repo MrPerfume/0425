@@ -6,6 +6,8 @@ use Think\Controller;
 class GoodsController extends Controller{
     //列表展示
     function showlist(){
+        $goods=new \Model\GoodsModel();
+        dump($goods);
         $this -> display();
     }
     //添加商品

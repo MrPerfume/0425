@@ -1,15 +1,17 @@
 <?php
+
+//商品控制器
+//命名空间
 namespace Home\Controller;
 use Think\Controller;
-class GoodsController extends Controller {
-    function login(){
-
-      //  echo '用户登陆login';
-        $this->display();
-
+//Controller父类：ThinkPHP/Library/Think/Controller.class.php
+class GoodsController extends Controller{
+    //商品列表展示
+    function showlist(){
+        $this -> display();
     }
-
-    function register(){
-        echo 'zhuce';
+    //详情
+    function detail(){
+        $this -> display();
     }
 }

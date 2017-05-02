@@ -275,3 +275,27 @@ INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
 [ 2017-05-02T13:01:43+08:00 ] 127.0.0.1 /shop/index.php/admin/Goods/showlist
 ERR: Syntax Error in template "D:/phpStudy/WWW/web/0425/shop/Admin/View\Goods\showlist.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
 
+[ 2017-05-02T13:09:48+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/%3C?php%20echo%20ADMIN_CSS_URL;%20?%3EUser_Login.css
+ERR: 非法操作:
+
+[ 2017-05-02T13:09:48+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Eadmin.png
+ERR: 非法操作:
+
+[ 2017-05-02T13:09:48+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Euser_botton.gif
+ERR: 非法操作:
+
+[ 2017-05-02T13:11:30+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Eadmin.png
+ERR: 非法操作:
+
+[ 2017-05-02T13:11:30+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Euser_botton.gif
+ERR: 非法操作:
+
+[ 2017-05-02T13:12:45+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Eadmin.png
+ERR: 非法操作:
+
+[ 2017-05-02T13:12:45+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Euser_botton.gif
+ERR: 非法操作:
+
+[ 2017-05-02T13:14:01+08:00 ] 127.0.0.1 /shop/index.php/admin/manager/%3C?php%20echo%20ADMIN_IMG_URL;%20?%3Euser_botton.gif
+ERR: 非法操作:
+
