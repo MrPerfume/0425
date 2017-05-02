@@ -6,8 +6,12 @@ use Think\Controller;
 class GoodsController extends Controller{
     //列表展示
     function showlist(){
-        $goods=new \Model\GoodsModel();
-        dump($goods);
+       $goods=new \Model\GoodsModel();
+       $info=$goods ->select();
+       // dump($goods);
+        //$goods=new \Model\EnglishModel();
+        //dump($goods);
+        $this->assign('info',$info);
         $this -> display();
     }
     //添加商品
